@@ -1,0 +1,11 @@
+Fichero archivo.txt
+Línea 1
+Línea 2
+Línea 3
+afef
+efef
+efefefe
+Ficherof
+efefefefe
+Ficherofe
+Fichero
